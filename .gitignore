@@ -1,0 +1,5 @@
+bin/
+tmp/
+
+# Mac temp
+.DS_Store
